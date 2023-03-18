@@ -19,6 +19,173 @@
 ]]></content>
   </entry>
   <entry>
+    <title>python教程（超详细,学不会你打我）</title>
+    <url>/2023/03/18/python%E6%95%99%E7%A8%8B%EF%BC%88%E8%B6%85%E8%AF%A6%E7%BB%86-%E5%AD%A6%E4%B8%8D%E4%BC%9A%E4%BD%A0%E6%89%93%E6%88%91%EF%BC%89/</url>
+    <content><![CDATA[<h1 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h1><p>本博客为自用向以及教学向python教程，目标是让每个人看黄岐的课不会一脸懵逼，<del>顺便架空黄岐嘿</del>。</p>
+<h1 id="python中的各种符号以及代码的基本内涵"><a href="#python中的各种符号以及代码的基本内涵" class="headerlink" title="python中的各种符号以及代码的基本内涵"></a>python中的各种符号以及代码的基本内涵</h1><p>Python有很多种符号，它们可以分为以下几类</p>
+<h2 id="算术运算符：用来进行加、减、乘、除等数学运算，例如-、-、-、-x2F-等。"><a href="#算术运算符：用来进行加、减、乘、除等数学运算，例如-、-、-、-x2F-等。" class="headerlink" title="- 算术运算符：用来进行加、减、乘、除等数学运算，例如+、-、*、&#x2F;等。"></a>- 算术运算符：用来进行加、减、乘、除等数学运算，例如+、-、*、&#x2F;等。</h2><blockquote>
+<p>+：加法，例如2 + 3 &#x3D; 5</p>
+</blockquote>
+<blockquote>
+<p>-：减法，例如5 - 2 &#x3D; 3</p>
+</blockquote>
+<blockquote>
+<p>*：乘法，例如2 * 3 &#x3D; 6</p>
+</blockquote>
+<blockquote>
+<p>&#x2F;：除法，例如6 &#x2F; 3 &#x3D; 2</p>
+</blockquote>
+<blockquote>
+<p>&#x2F;&#x2F;：整除，例如7 &#x2F;&#x2F; 3 &#x3D; 2</p>
+</blockquote>
+<blockquote>
+<p>%：取余，例如7 % 3 &#x3D; 1</p>
+</blockquote>
+<blockquote>
+<p>**：幂，例如2 ** 3 &#x3D; 8</p>
+</blockquote>
+<h2 id="赋值运算符：用来给变量赋值，例如-x3D-、-x3D-、-x3D-等。"><a href="#赋值运算符：用来给变量赋值，例如-x3D-、-x3D-、-x3D-等。" class="headerlink" title="- 赋值运算符：用来给变量赋值，例如&#x3D;、+&#x3D;、-&#x3D;等。"></a>- 赋值运算符：用来给变量赋值，例如&#x3D;、+&#x3D;、-&#x3D;等。</h2><blockquote>
+<p>&#x3D;：简单赋值，例如x &#x3D; 5</p>
+</blockquote>
+<blockquote>
+<p>+&#x3D;：加法赋值，例如x +&#x3D; 2相当于x &#x3D; x + 2</p>
+</blockquote>
+<blockquote>
+<p>-&#x3D;：减法赋值，例如x -&#x3D; 2相当于x &#x3D; x - 2</p>
+</blockquote>
+<blockquote>
+<p>*&#x3D;：乘法赋值，例如x *&#x3D; 2相当于x &#x3D; x * 2</p>
+</blockquote>
+<blockquote>
+<p>&#x2F;&#x3D;：除法赋值，例如x &#x2F;&#x3D; 2相当于x &#x3D; x &#x2F; 2</p>
+</blockquote>
+<blockquote>
+<p>&#x2F;&#x2F;&#x3D;：整除赋值，例如x &#x2F;&#x2F;&#x3D; 2相当于x &#x3D; x &#x2F;&#x2F; 2</p>
+</blockquote>
+<blockquote>
+<p>%&#x3D;：取余赋值，例如x %&#x3D; 2相当于x &#x3D; x % 2</p>
+</blockquote>
+<blockquote>
+<p>**&#x3D;：幂赋值，例如x **&#x3D; 2相当于x &#x3D; x ** 2</p>
+</blockquote>
+<h2 id="比较运算符：用来比较两个值的大小或相等性，例如-x3D-x3D-、-x3D-、-gt-、-lt-等。"><a href="#比较运算符：用来比较两个值的大小或相等性，例如-x3D-x3D-、-x3D-、-gt-、-lt-等。" class="headerlink" title="- 比较运算符：用来比较两个值的大小或相等性，例如&#x3D;&#x3D;、!&#x3D;、&gt;、&lt;等。"></a>- 比较运算符：用来比较两个值的大小或相等性，例如&#x3D;&#x3D;、!&#x3D;、&gt;、&lt;等。</h2><blockquote>
+<p>&#x3D;&#x3D;：相等，例如2 &#x3D;&#x3D; 2返回True</p>
+</blockquote>
+<blockquote>
+<p>!&#x3D;：不等，例如2 !&#x3D; 3返回True</p>
+</blockquote>
+<blockquote>
+<p>：大于，例如3 &gt; 2返回True</p>
+</blockquote>
+<blockquote>
+<p>&lt;：小于，例如2 &lt; 3返回True</p>
+</blockquote>
+<blockquote>
+<p>&gt;&#x3D;：大于等于，例如3 &gt;&#x3D; 2返回True</p>
+</blockquote>
+<blockquote>
+<p>&lt;&#x3D;：小于等于，例如2 &lt;&#x3D; 3返回True</p>
+</blockquote>
+<h2 id="逻辑运算符：用来进行布尔逻辑运算，例如and、or、not等。"><a href="#逻辑运算符：用来进行布尔逻辑运算，例如and、or、not等。" class="headerlink" title="- 逻辑运算符：用来进行布尔逻辑运算，例如and、or、not等。"></a>- 逻辑运算符：用来进行布尔逻辑运算，例如and、or、not等。</h2><blockquote>
+<p>and：逻辑与，例如True and False返回False</p>
+</blockquote>
+<blockquote>
+<p>or：逻辑或，例如True or False返回True</p>
+</blockquote>
+<blockquote>
+<p>not：逻辑非，例如not True返回False</p>
+</blockquote>
+<h2 id="位运算符：用来进行二进制位的操作，例如-amp-、-、-等。"><a href="#位运算符：用来进行二进制位的操作，例如-amp-、-、-等。" class="headerlink" title="- 位运算符：用来进行二进制位的操作，例如&amp;、|、^等。"></a>- 位运算符：用来进行二进制位的操作，例如&amp;、|、^等。</h2><blockquote>
+<p>二进制的光我啥事，看啥看，又不考，下一个</p>
+</blockquote>
+<h2 id="成员运算符：用来检查一个值是否在一个序列或集合中，例如in和not-in。"><a href="#成员运算符：用来检查一个值是否在一个序列或集合中，例如in和not-in。" class="headerlink" title="- 成员运算符：用来检查一个值是否在一个序列或集合中，例如in和not in。"></a>- 成员运算符：用来检查一个值是否在一个序列或集合中，例如in和not in。</h2><blockquote>
+<p>in：判断一个值是否在一个序列中，例如3 in [1, 2, 3]返回True</p>
+</blockquote>
+<blockquote>
+<p>not in：判断一个值是否不在一个序列中，例如4 not in [1, 2, 3]返回True</p>
+</blockquote>
+<h2 id="身份运算符：用来检查两个对象是否是同一个对象，例如is和is-not。"><a href="#身份运算符：用来检查两个对象是否是同一个对象，例如is和is-not。" class="headerlink" title="- 身份运算符：用来检查两个对象是否是同一个对象，例如is和is not。"></a>- 身份运算符：用来检查两个对象是否是同一个对象，例如is和is not。</h2><blockquote>
+<p>is：判断两个对象是否是同一个对象，例如a is b返回True，如果a和b引用的是同一个对象</p>
+</blockquote>
+<blockquote>
+<p>is not：判断两个对象是否不是同一个对象，例如a is not b返回True，如果a和b引用的不是同一个对象</p>
+</blockquote>
+<h2 id="运算优先级：用来确定不同的符号在表达式中的执行顺序，例如-表示括号内的内容优先计算。"><a href="#运算优先级：用来确定不同的符号在表达式中的执行顺序，例如-表示括号内的内容优先计算。" class="headerlink" title="- 运算优先级：用来确定不同的符号在表达式中的执行顺序，例如()表示括号内的内容优先计算。"></a>- 运算优先级：用来确定不同的符号在表达式中的执行顺序，例如()表示括号内的内容优先计算。</h2><p>根据<a class="link"   href="https://docs.python.org/3/reference/expressions.html" >Python官方文档 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，Python中的运算优先级从高到低如下：</p>
+<blockquote>
+<p>()：圆括号</p>
+</blockquote>
+<blockquote>
+<p>**：幂</p>
+</blockquote>
+<blockquote>
+<p>+x, -x, ~x：正号，负号，按位取反</p>
+</blockquote>
+<blockquote>
+<p>*, &#x2F;, %, &#x2F;&#x2F;：乘法，除法，取余，整除</p>
+</blockquote>
+<blockquote>
+<p>+, -：加法，减法</p>
+</blockquote>
+<blockquote>
+<p>&lt;&lt;, &gt;&gt;：左移，右移</p>
+</blockquote>
+<blockquote>
+<p>&amp;：按位与</p>
+</blockquote>
+<blockquote>
+<p>^：按位异或</p>
+</blockquote>
+<blockquote>
+<p>|：按位或</p>
+</blockquote>
+<blockquote>
+<p>&lt;, &lt;&#x3D;, &gt;, &gt;&#x3D;: 比较大小</p>
+</blockquote>
+<blockquote>
+<p>&lt;&#x3D;&gt;: 比较大小和相等（Python 3.10新增,信息会考不考&gt;别看了）</p>
+</blockquote>
+<blockquote>
+<p>&#x3D;&#x3D;, !&#x3D;: 比较相等和不等</p>
+</blockquote>
+<blockquote>
+<p>is, is not: 比较身份</p>
+</blockquote>
+<blockquote>
+<p>in, not in: 比较成员关系</p>
+</blockquote>
+<blockquote>
+<p>not: 逻辑非</p>
+</blockquote>
+<blockquote>
+<p>and: 逻辑与</p>
+</blockquote>
+<blockquote>
+<p>or: 逻辑或</p>
+</blockquote>
+<h2 id="Python还有一些特殊的符号，它们表示一些内置的函数或模块23。例如："><a href="#Python还有一些特殊的符号，它们表示一些内置的函数或模块23。例如：" class="headerlink" title="- Python还有一些特殊的符号，它们表示一些内置的函数或模块23。例如："></a>- Python还有一些特殊的符号，它们表示一些内置的函数或模块23。例如：</h2><blockquote>
+<p>print()：打印输出字符串或其他对象</p>
+</blockquote>
+<blockquote>
+<p>sqrt()：计算一个数的平方根</p>
+</blockquote>
+<blockquote>
+<p>pow()：计算一个数的幂</p>
+</blockquote>
+<blockquote>
+<p>#：用于表示注释，Python解释器会忽略以#开头的行。</p>
+</blockquote>
+<blockquote>
+<p>\：用于表示转义字符，例如\n表示换行，\t表示制表符，\\表示反斜杠本身2。</p>
+</blockquote>
+<blockquote>
+<p>@：用于表示装饰器（decorator），它是一个函数，可以在不修改原函数代码的情况下给原函数增加一些功能</p>
+</blockquote>
+<h1 id="python经典练习题"><a href="#python经典练习题" class="headerlink" title="python经典练习题"></a>python经典练习题</h1><p>说了半天，有人可能不耐烦了：你特么bb这么多有屁用，你能不能讲点有用的🙄</p>
+<p>好的好的，现在是刷题时间😅</p>
+<h2 id="第一道题"><a href="#第一道题" class="headerlink" title="第一道题"></a>第一道题</h2><p>明天再说，你特么要累死我啊</p>
+]]></content>
+  </entry>
+  <entry>
     <title>建站第一天</title>
     <url>/2023/03/12/%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
     <content><![CDATA[<h1 id="建站第一天，为了搞这个博客博主差点去世"><a href="#建站第一天，为了搞这个博客博主差点去世" class="headerlink" title="建站第一天，为了搞这个博客博主差点去世"></a>建站第一天，为了搞这个博客博主差点去世</h1><p><del>（菜鸡博主）</del>（至少因为这个作业写不完了，死掉了，晚上要被<del>大文</del>真实了😥）</p>
