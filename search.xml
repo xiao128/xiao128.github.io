@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2023/03/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>python教程（超详细,学不会你打我）</title>
     <url>/2023/03/18/python%E6%95%99%E7%A8%8B%EF%BC%88%E8%B6%85%E8%AF%A6%E7%BB%86-%E5%AD%A6%E4%B8%8D%E4%BC%9A%E4%BD%A0%E6%89%93%E6%88%91%EF%BC%89/</url>
     <content><![CDATA[<h1 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h1><p>本博客为自用向以及教学向python教程，目标是让每个人看黄岐的课不会一脸懵逼，<del>顺便架空黄岐嘿</del>。</p>
@@ -185,24 +203,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/03/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>建站第一天</title>
     <url>/2023/03/12/%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
     <content><![CDATA[<h1 id="建站第一天，为了搞这个博客博主差点去世"><a href="#建站第一天，为了搞这个博客博主差点去世" class="headerlink" title="建站第一天，为了搞这个博客博主差点去世"></a>建站第一天，为了搞这个博客博主差点去世</h1><p><del>（菜鸡博主）</del>（至少因为这个作业写不完了，死掉了，晚上要被<del>大文</del>真实了😥）</p>
@@ -243,39 +243,31 @@
     <url>/2023/03/19/python%E9%A2%98%E5%9E%8B/</url>
     <content><![CDATA[<p>题型就专门再开一个博客来写了</p>
 <h1 id="计算5-51之和"><a href="#计算5-51之和" class="headerlink" title="计算5~51之和"></a>计算5~51之和</h1><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">sum = 0   </span><br><span class="line">for i in range(5, 52): </span><br><span class="line">    sum += i </span><br><span class="line">print(sum)</span><br></pre></td></tr></table></figure></div>
-<p>核心考察点：range函数的使用方法</p>
+<p>核心考察点：range函数的使用方法（即区间函数）</p>
 <p>range(终值)：默认起始值为0，步长为1，返回从0到终值（不包括终值）的整数列表。例如：range(5) 等价于 [0, 1, 2, 3, 4]</p>
 <p>range(起始值, 终值)：默认步长为1，返回从起始值到终值（不包括终值）的整数列表。例如：range(1, 5) 等价于 [1, 2, 3, 4]</p>
 <p>range(起始值, 终值, 步长)：返回从起始值到终值（不包括终值）的整数列表，按照指定的步长递增或递减。例如：range(1, 10, 2) 等价于 [1, 3, 5 ,7 ,9]</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>欣赏的名言</title>
-    <url>/2023/03/12/%E6%AC%A3%E8%B5%8F%E7%9A%84%E5%90%8D%E8%A8%80/</url>
-    <content><![CDATA[<h1 id="个人欣赏的名言"><a href="#个人欣赏的名言" class="headerlink" title="个人欣赏的名言"></a>个人欣赏的名言</h1><blockquote>
-<h2 id="1-人需要真理，就像瞎子需要引路人一样-——高尔基"><a href="#1-人需要真理，就像瞎子需要引路人一样-——高尔基" class="headerlink" title="1.人需要真理，就像瞎子需要引路人一样.      ——高尔基"></a>1.人需要真理，就像瞎子需要引路人一样.      ——高尔基</h2></blockquote>
-<ul>
-<li>博主也一直想寻求真正的真理，我一直在思考，我们所学的东西，就是正确的吗？我们所追求的东西，就是一定的吗？我们是否处在一个巨大的信息茧房中呢？哪些和我们观点不同的人,又是为什么和我们观点不同呢？<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://pic17.997788.com/_pic_search/00/15/66/22/15662214d.jpg"
-                      alt="高尔基图片"
-                >&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;</li>
-</ul>
-<blockquote>
-<h2 id="2-任何时候我也不会感到满足，越是读书，就越是深刻的感到不满足，越是感到自己的知识贫乏——马克思"><a href="#2-任何时候我也不会感到满足，越是读书，就越是深刻的感到不满足，越是感到自己的知识贫乏——马克思" class="headerlink" title="2.任何时候我也不会感到满足，越是读书，就越是深刻的感到不满足，越是感到自己的知识贫乏——马克思"></a>2.任何时候我也不会感到满足，越是读书，就越是深刻的感到不满足，越是感到自己的知识贫乏——马克思</h2><p>-我曾经也有段时间天真的认为，自己也对各种制度略知道一二，足以评头论足了，然而当我阅读了资本论后（<del>共产党宣言还没看</del>），我意识到课本上的只是凤毛麟角，我想了解更多，了解安那其主义，了解共产主义，了解各种国家的各种制度加以分析，我不是一个自律的人，因为“读书”不会让我感到快乐。然而，当我获取这些知识的时候，我感到了非凡的快乐，<del>然而我没时间看</del>。不过如果条件允许，我会找时间的<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://pic.baike.soso.com/p/20120912/20120912231217-1042998991.jpg"
-                      alt="马克思"
-                ></p>
-</blockquote>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<h1 id="前方施工中ing，等我有空再写（那就是没空力）"><a href="#前方施工中ing，等我有空再写（那就是没空力）" class="headerlink" title="前方施工中ing，等我有空再写（那就是没空力）"></a>前方施工中ing，等我有空再写（<del><em>那就是没空力</em></del>）</h1>]]></content>
+<h1 id="输入一个正整数n，输出从1到n的所有奇数。"><a href="#输入一个正整数n，输出从1到n的所有奇数。" class="headerlink" title="输入一个正整数n，输出从1到n的所有奇数。"></a>输入一个正整数n，输出从1到n的所有奇数。</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">n = int(input(&quot;请输入一个正整数：&quot;))</span><br><span class="line">i = 1</span><br><span class="line">while i &lt;= n:</span><br><span class="line">    if i % 2 == 1:</span><br><span class="line">        print(i)</span><br><span class="line">    i += 1   #每次循环结束后，将i加1</span><br></pre></td></tr></table></figure></div>
+<p>意义：代码中首先输入一个正整数n，然后初始化变量i为1。在while循环中，如果i是奇数，则输出i，然后将i加1，进入下一轮循环。当i大于n时，循环结束。这样就可以输出从1到n的所有奇数。</p>
+<p>考点：while指令的运用</p>
+<p>while是Python中的一种循环结构，可以重复执行一段代码块，直到满足指定条件时停止循环。通常用于处理需要重复执行的任务，如输入验证、数据处理、游戏循环等。</p>
+<p>while语句的一般语法如下：<br>while condition:</p>
+<p>其中，condition是一个表达式，通常包含一个或多个变量和运算符，用于检查循环是否继续执行。在每次循环开始时，都会先检查condition的值，如果为True，则执行代码块中的语句；如果为False，则退出循环。</p>
+<p>下面是另外一个while函数的例子</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">i = 1</span><br><span class="line">total = 0</span><br><span class="line"></span><br><span class="line">while i &lt;= 10:</span><br><span class="line">    total += i</span><br><span class="line">    i += 1</span><br><span class="line"></span><br><span class="line">print(total)  # 输出55，即1+2+3+4+5+6+7+8+9+10的和</span><br></pre></td></tr></table></figure></div>
+<h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">n = int(input(&quot;请输入一个正整数n：&quot;))</span><br><span class="line"></span><br><span class="line">for i in range(1, n+1, 2):</span><br><span class="line">    print(i)</span><br></pre></td></tr></table></figure></div>
+
+
+
+
+
+
+
+
+<h1 id="chr-ord-‘a’-1-的值为？（选择题）"><a href="#chr-ord-‘a’-1-的值为？（选择题）" class="headerlink" title="chr(ord(‘a’)+1)的值为？（选择题）"></a>chr(ord(‘a’)+1)的值为？（选择题）</h1><p>在这个表达式中，ord(‘a’) 将字符 ‘a’ 转换成其对应的 ASCII 码值（整数），而 chr() 函数则将整数转换为其对应的字符。</p>
+<p>因此，ord(‘a’)+1 计算出的是 ‘a’ 后面的一个字母 ‘b’ 的 ASCII 码值然后 chr() 函数将该整数转换成对应的字符 ‘b’。</p>
+<p>这样的计算顺序是正确的，因为先计算 ord(‘a’) 保证了对应的 ASCII 码值正确，再通过 chr() 函数将该整数转换成对应的字符。</p>
+<p>以下是 ASCII 码表中一些常见字符和控制字符的对应值：</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">空格：32</span><br><span class="line">数字 0 到 9：48 到 57</span><br><span class="line">大写字母 A 到 Z：65 到 90</span><br><span class="line">小写字母 a 到 z：97 到 122</span><br><span class="line">符号 ! 到 /：33 到 47</span><br><span class="line">符号 : 到 @：58 到 64</span><br><span class="line">符号 [ 到 `：91 到 96</span><br><span class="line">符号 &#123; 到 ~：123 到 126</span><br><span class="line">回车符：13</span><br><span class="line">换行符：10</span><br><span class="line">制表符：9</span><br></pre></td></tr></table></figure></div>]]></content>
   </entry>
 </search>
