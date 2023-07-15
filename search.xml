@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2023/03/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>python教程（超详细,学不会你打我）</title>
     <url>/2023/03/18/python%E6%95%99%E7%A8%8B%EF%BC%88%E8%B6%85%E8%AF%A6%E7%BB%86-%E5%AD%A6%E4%B8%8D%E4%BC%9A%E4%BD%A0%E6%89%93%E6%88%91%EF%BC%89/</url>
     <content><![CDATA[<h1 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h1><p>本博客为自用向以及教学向python教程，目标是让每个人看黄岐的课不会一脸懵逼，<del>顺便架空黄岐嘿</del>。</p>
@@ -185,24 +203,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/03/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>python题型</title>
     <url>/2023/03/19/python%E9%A2%98%E5%9E%8B/</url>
     <content><![CDATA[<p>题型就专门再开一个博客来写了</p>
@@ -259,9 +259,28 @@
 ]]></content>
   </entry>
   <entry>
-    <title>中国是社会主义国家吗？</title>
-    <url>/2023/06/04/%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6%E5%90%97%EF%BC%9F/</url>
-    <content><![CDATA[<h1 id="懒得写，这是挖坑"><a href="#懒得写，这是挖坑" class="headerlink" title="懒得写，这是挖坑"></a>懒得写，这是挖坑</h1><h1 id="希望我又朝一日能写完（估计会有2000多字吧）"><a href="#希望我又朝一日能写完（估计会有2000多字吧）" class="headerlink" title="希望我又朝一日能写完（估计会有2000多字吧）"></a>希望我又朝一日能写完（估计会有2000多字吧）</h1>]]></content>
+    <title>徐总的小作文</title>
+    <url>/2023/07/14/%E5%BE%90%E6%80%BB%E7%9A%84%E5%B0%8F%E4%BD%9C%E6%96%87/</url>
+    <content><![CDATA[<h1 id="徐总的小作文，偷偷保存下来展览"><a href="#徐总的小作文，偷偷保存下来展览" class="headerlink" title="徐总的小作文，偷偷保存下来展览"></a>徐总的小作文，偷偷保存下来展览</h1><p>正文：<br>对手</p>
+<p>那是来师大的第一天</p>
+<p>培训班负责人在台上提醒着我们要注意各种问题，脸上挂着关怀的笑容，以一种生动幽默的方式筑起了一道似乎不是很牢固的防线，反而激起了我们的好奇心，教室内外充满了快活的空气。</p>
+<p>不经意间，讲到了校园内曾经出现几只浣熊。虽说浣熊战斗力惊人，但毕竟是数年以前的事情了，所能激起的波澜无非是落入池塘的一颗石子，并且不外乎这样那样的新鲜感。不多一会，教室内外再次充满了快活的空气。</p>
+<p>后来的几天，一切安宁，似乎什么意外都没有发生，也似乎什么意外都将不会发生，就这样，浑浑噩噩，不加思考，好像这一切都不会受到什么影响一样。</p>
+<p>我没有想到，或许我们都没想到。就在昨天晚自习下课后，我们遇到了它们。</p>
+<p>“通往酒店……嗯，有条近路，可惜被封了……”我无奈地随意滑动缩放高德地图的路线规划，向身边的某某指了指近路上的一个小小的禁止符号。<br>“碰碰运气，怕他做甚！”他倒是来了兴致，“说不定早就解封了呢，这地图没更新不是正常！”</p>
+<p>我心中不知为何闪过一念，但恰似那不知滥觞的嚆矢奔向无垠的大漠，它似乎想劝说我此行万不可始，又像在告诫我危险必然在乎前路。可是我怎么也抓不住它，只好任由它逝去，拖着不安忐忑的身躯向着未知的领域进发。</p>
+<p>“某某的身影肯定不比浣熊迟钝。”看着他在师大的林木间穿行的矫健身影，我不禁想到了浣熊。哦，是浣熊！我的心脏不自觉地跳得快了不少，我终于知道那个声音在呼喊什么了。“等一等，我感觉这里有些不对劲的地方！”我尽力压低声音，可尽管如此，在这静谧得可怕的草木之中，还是有如一阵惊雷。</p>
+<p>“又怎么了，犹犹豫豫的？”这才是一阵惊雷，某某似乎不耐烦于我的谨慎，回过头来喊了一句，乘着手电筒的光，不难看出他脸上对于早点离开的殷切希望。</p>
+<p>窸窣，黑暗处闪烁出一阵凶光，又猝尔而逝。我们两人走进了不少，背靠着背，手握手电筒时刻警惕来自各个方向可能的威胁。</p>
+<p>“果然，还是来了吗……”某某的声音也有些颤栗，我们还没有面对过如此强大的敌人。<br>“来了，这边！”我拾起一根掉落的枯枝，极力向着进攻的讯号传来之处挥去，我的树枝像是击打到了什么软韧的东西，那玩意的声音马上消逝在丛林深处了。</p>
+<p>“别庆祝了，快走！”我立马按下某某将要四处飞舞的手臂，拨开眼前的有近一人高的杂草，开辟着通往目的地的道路。不过，眼前显露出来的，不是晴朗的夜空，而是两只浣熊凶狠的眼睛。</p>
+<p>我们都找到武器，准备迎接一场恶仗。</p>
+<p>谁知，那两个家伙只是诡异地叫了一声，丢下了些什么东西就迅速融入了黑夜。那丢下的有两份，月光下看得不甚明了，只见如流水银河般诡异的光。</p>
+<p>我们走上前去，拿起手电筒一照：</p>
+<p>小浣熊干脆面</p>
+<p>“好家伙，爆装备是吧！”</p>
+<p>（纯属虚构，没法雷同吧。某几位来自如论的同学提供了爆干脆面的灵感，在此表示感谢。此外皆由徐总（QQ：552168442）创作，未经许可，不得转载）</p>
+]]></content>
   </entry>
   <entry>
     <title>建站第一天</title>
@@ -300,28 +319,9 @@
       </tags>
   </entry>
   <entry>
-    <title>徐总的小作文</title>
-    <url>/2023/07/14/%E5%BE%90%E6%80%BB%E7%9A%84%E5%B0%8F%E4%BD%9C%E6%96%87/</url>
-    <content><![CDATA[<h1 id="徐总的小作文，偷偷保存下来展览"><a href="#徐总的小作文，偷偷保存下来展览" class="headerlink" title="徐总的小作文，偷偷保存下来展览"></a>徐总的小作文，偷偷保存下来展览</h1><p>正文：<br>对手</p>
-<p>那是来师大的第一天</p>
-<p>培训班负责人在台上提醒着我们要注意各种问题，脸上挂着关怀的笑容，以一种生动幽默的方式筑起了一道似乎不是很牢固的防线，反而激起了我们的好奇心，教室内外充满了快活的空气。</p>
-<p>不经意间，讲到了校园内曾经出现几只浣熊。虽说浣熊战斗力惊人，但毕竟是数年以前的事情了，所能激起的波澜无非是落入池塘的一颗石子，并且不外乎这样那样的新鲜感。不多一会，教室内外再次充满了快活的空气。</p>
-<p>后来的几天，一切安宁，似乎什么意外都没有发生，也似乎什么意外都将不会发生，就这样，浑浑噩噩，不加思考，好像这一切都不会受到什么影响一样。</p>
-<p>我没有想到，或许我们都没想到。就在昨天晚自习下课后，我们遇到了它们。</p>
-<p>“通往酒店……嗯，有条近路，可惜被封了……”我无奈地随意滑动缩放高德地图的路线规划，向身边的某某指了指近路上的一个小小的禁止符号。<br>“碰碰运气，怕他做甚！”他倒是来了兴致，“说不定早就解封了呢，这地图没更新不是正常！”</p>
-<p>我心中不知为何闪过一念，但恰似那不知滥觞的嚆矢奔向无垠的大漠，它似乎想劝说我此行万不可始，又像在告诫我危险必然在乎前路。可是我怎么也抓不住它，只好任由它逝去，拖着不安忐忑的身躯向着未知的领域进发。</p>
-<p>“某某的身影肯定不比浣熊迟钝。”看着他在师大的林木间穿行的矫健身影，我不禁想到了浣熊。哦，是浣熊！我的心脏不自觉地跳得快了不少，我终于知道那个声音在呼喊什么了。“等一等，我感觉这里有些不对劲的地方！”我尽力压低声音，可尽管如此，在这静谧得可怕的草木之中，还是有如一阵惊雷。</p>
-<p>“又怎么了，犹犹豫豫的？”这才是一阵惊雷，某某似乎不耐烦于我的谨慎，回过头来喊了一句，乘着手电筒的光，不难看出他脸上对于早点离开的殷切希望。</p>
-<p>窸窣，黑暗处闪烁出一阵凶光，又猝尔而逝。我们两人走进了不少，背靠着背，手握手电筒时刻警惕来自各个方向可能的威胁。</p>
-<p>“果然，还是来了吗……”某某的声音也有些颤栗，我们还没有面对过如此强大的敌人。<br>“来了，这边！”我拾起一根掉落的枯枝，极力向着进攻的讯号传来之处挥去，我的树枝像是击打到了什么软韧的东西，那玩意的声音马上消逝在丛林深处了。</p>
-<p>“别庆祝了，快走！”我立马按下某某将要四处飞舞的手臂，拨开眼前的有近一人高的杂草，开辟着通往目的地的道路。不过，眼前显露出来的，不是晴朗的夜空，而是两只浣熊凶狠的眼睛。</p>
-<p>我们都找到武器，准备迎接一场恶仗。</p>
-<p>谁知，那两个家伙只是诡异地叫了一声，丢下了些什么东西就迅速融入了黑夜。那丢下的有两份，月光下看得不甚明了，只见如流水银河般诡异的光。</p>
-<p>我们走上前去，拿起手电筒一照：</p>
-<p>小浣熊干脆面</p>
-<p>“好家伙，爆装备是吧！”</p>
-<p>（纯属虚构，没法雷同吧。某几位来自如论的同学提供了爆干脆面的灵感，在此表示感谢。此外皆由徐总（QQ：552168442）创作，未经许可，不得转载）</p>
-]]></content>
+    <title>中国是社会主义国家吗？</title>
+    <url>/2023/06/04/%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6%E5%90%97%EF%BC%9F/</url>
+    <content><![CDATA[<h1 id="懒得写，这是挖坑"><a href="#懒得写，这是挖坑" class="headerlink" title="懒得写，这是挖坑"></a>懒得写，这是挖坑</h1><h1 id="希望我又朝一日能写完（估计会有2000多字吧）"><a href="#希望我又朝一日能写完（估计会有2000多字吧）" class="headerlink" title="希望我又朝一日能写完（估计会有2000多字吧）"></a>希望我又朝一日能写完（估计会有2000多字吧）</h1>]]></content>
   </entry>
   <entry>
     <title>收到启发</title>
