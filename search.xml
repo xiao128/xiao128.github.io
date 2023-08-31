@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>一些常用网址和指令</title>
+    <url>/2023/07/14/%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80%E5%92%8C%E6%8C%87%E4%BB%A4/</url>
+    <content><![CDATA[<p>运行栏中输入的是：ping cdn.steampowered.com<br>IP地址查询网址：<a class="link"   href="https://www.ipip.net/ip.html" >https://www.ipip.net/ip.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>看显卡：dxdiag</p>
+<p>显示主板 msinfo32<br>显示显卡 dxdiag<br>显示ip：cmd      ipconfig</p>
+<p>卡屏<br><a class="link"   href="https://huayula.com/post-429.html#:~:text=QQ%E7%82%B8%E7%BE%A4%E3%80%81%E5%8D%A1%E5%B1%8F%E9%97%AA,%EF%BC%8C%E7%94%A8%E8%BF%87%E7%9A%84%E4%BA%BA%E7%9F%A5%E9%81%93%E3%80%82" >https://huayula.com/post-429.html#:~:text=QQ%E7%82%B8%E7%BE%A4%E3%80%81%E5%8D%A1%E5%B1%8F%E9%97%AA,%EF%BC%8C%E7%94%A8%E8%BF%87%E7%9A%84%E4%BA%BA%E7%9F%A5%E9%81%93%E3%80%82 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>虚拟键盘<br>cmd    osk</p>
+<p>模拟人声<br><a class="link"   href="https://www.bilibili.com/read/cv20153960?spm_id_from=333.999.0.0" >https://www.bilibili.com/read/cv20153960?spm_id_from=333.999.0.0 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>下载b站视频<br><a class="link"   href="https://bilibili.iiilab.com/" >https://bilibili.iiilab.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="http://zhouql.vip/bilibili/" >http://zhouql.vip/bilibili/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>短网址<br><a class="link"   href="https://sina.lt/" >https://sina.lt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>代码<br>sv_consistency 0</p>
+<p>map tumtara测试<br>map tgxl特感训练<br>map ygschool_01学校<br>map ygschool_02学校</p>
+<p>账号<br>枭，枭ep，xiao128<br>密码gaoxuefeng,gaoxuefeng510,Gaoxue510,Gaoxuefeng510,gaoxuefeng510.</p>
+<p>人工ai<br>解除Sydney限制<br><a class="link"   href="https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai" >https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://www.make-safe-ai.com/is-bing-chat-safe/" >https://www.make-safe-ai.com/is-bing-chat-safe/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>自建博客<br><a class="link"   href="https://zhuanlan.zhihu.com/p/105715224" >https://zhuanlan.zhihu.com/p/105715224 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>个人博客<br><a class="link"   href="https://xiao128.github.io/" >https://xiao128.github.io/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>常用命令<br>hexo new “name”       # 新建文章<br>hexo new page “name”  # 新建页面<br>hexo g                # 生成页面<br>hexo d                # 部署<br>hexo g -d             # 生成页面并部署<br>hexo s                # 本地预览<br>hexo clean            # 清除缓存和已生成的静态文件<br>hexo help             # 帮助<br><a class="link"   href="https://markdown.com.cn/basic-syntax/headings.html" >https://markdown.com.cn/basic-syntax/headings.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://markdown.com.cn/editor/" >https://markdown.com.cn/editor/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>博客美化<br><a class="link"   href="https://molunerfinn.com/" >https://molunerfinn.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://redefine.ohevan.com/2022/10/02/theme-demo/" >https://redefine.ohevan.com/2022/10/02/theme-demo/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://redefine-docs.ohevan.com/docs/configuration-guide/create-theme-config-file" >https://redefine-docs.ohevan.com/docs/configuration-guide/create-theme-config-file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://zhuanlan.zhihu.com/p/69211731" >https://zhuanlan.zhihu.com/p/69211731 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://github.com/settings/applications/2141058" >https://github.com/settings/applications/2141058 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>图标<br><a class="link"   href="https://www.iconfont.cn/search/index?searchType=icon&q=G&page=6&fromCollection=-1" >https://www.iconfont.cn/search/index?searchType=icon&amp;q=G&amp;page=6&amp;fromCollection=-1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>背景<br><a class="link"   href="https://www.pexels.com/zh-cn/search/4k%E8%83%8C%E6%99%AF/" >https://www.pexels.com/zh-cn/search/4k%E8%83%8C%E6%99%AF/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>钉钉视频下载<br><a class="link"   href="https://blog.csdn.net/weixin_45698690/article/details/129164016" >https://blog.csdn.net/weixin_45698690/article/details/129164016 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>微信QQ防撤回<br><a class="link"   href="https://github.com/huiyadanli/RevokeMsgPatcher/wiki" >https://github.com/huiyadanli/RevokeMsgPatcher/wiki <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/03/12/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -19,8 +43,96 @@
 ]]></content>
   </entry>
   <entry>
+    <title>中国是社会主义国家吗？</title>
+    <url>/2023/06/04/%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6%E5%90%97%EF%BC%9F/</url>
+    <content><![CDATA[<h1 id="懒得写，这是挖坑"><a href="#懒得写，这是挖坑" class="headerlink" title="懒得写，这是挖坑"></a>懒得写，这是挖坑</h1><h1 id="希望我又朝一日能写完（估计会有2000多字吧）"><a href="#希望我又朝一日能写完（估计会有2000多字吧）" class="headerlink" title="希望我又朝一日能写完（估计会有2000多字吧）"></a>希望我又朝一日能写完（估计会有2000多字吧）</h1>]]></content>
+  </entry>
+  <entry>
+    <title>建站第一天</title>
+    <url>/2023/03/12/%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<h1 id="建站第一天，为了搞这个博客博主差点去世"><a href="#建站第一天，为了搞这个博客博主差点去世" class="headerlink" title="建站第一天，为了搞这个博客博主差点去世"></a>建站第一天，为了搞这个博客博主差点去世</h1><p><del>（菜鸡博主）</del>（至少因为这个作业写不完了，死掉了，晚上要被<del>大文</del>真实了😥）</p>
+<h2 id="7-1-发布文章"><a href="#7-1-发布文章" class="headerlink" title="7.1 发布文章"></a>7.1 发布文章</h2><p>进入博客所在目录，右键打开 Git Bash Here，创建博文：</p>
+<p>hexo new “My New Post”<br>然后 source 文件夹中会出现一个 My New Post.md 文件，就可以使用 Markdown 编辑器在该文件中撰写文章了。</p>
+<p>写完后运行下面代码将文章渲染并部署到 GitHub Pages 上完成发布。以后每次发布文章都是这两条命令。</p>
+<p>hexo g   # 生成页面<br>hexo d   # 部署发布<br>也可以不使用命令自己创建 .md 文件，只需在文件开头手动加入如下格式 Front-matter 即可，写完后运行 hexo g 和 hexo d 发布。<del>看到这已经该无聊的睡着了😴</del></p>
+<p>摘要</p>
+<span id="more"></span>
+<p>正文<br>#@ 7.2 网站设置<br>包括网站名称、描述、作者、链接样式等，全部在网站目录下的 _config.yml 文件中，参考官方文档按需要编辑。</p>
+<p>注意：冒号后要加一个空格！</p>
+<h2 id="7-3-更换主题"><a href="#7-3-更换主题" class="headerlink" title="7.3 更换主题"></a>7.3 更换主题</h2><p>在 Themes | Hexo 选择一个喜欢的主题，比如 NexT，进入网站目录打开 Git Bash Here 下载主题：</p>
+<p>git clone <a class="link"   href="https://github.com/iissnan/hexo-theme-next" >https://github.com/iissnan/hexo-theme-next <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> themes&#x2F;next<br>然后修改 _config.yml 中的 theme 为新主题名称 next，发布。（有的主题需要将 _config.yml 替换为主题自带的，参考主题说明。）</p>
+<h2 id="7-4-常用命令"><a href="#7-4-常用命令" class="headerlink" title="7.4 常用命令"></a>7.4 常用命令</h2><p>hexo new “name”       # 新建文章<br>hexo new page “name”  # 新建页面<br>hexo g                # 生成页面<br>hexo d                # 部署<br>hexo g -d             # 生成页面并部署<br>hexo s                # 本地预览<br>hexo clean            # 清除缓存和已生成的静态文件<br>hexo help             # 帮助<br>8 常见问题<br>1、Hexo 设置显示文章摘要，首页不显示全文</p>
+<p>Hexo 主页文章列表默认会显示文章全文，浏览时很不方便，可以在文章中插入 <!--more--> 进行分段。</p>
+<p>该代码前面的内容会作为摘要显示，而后面的内容会替换为 “Read More” 隐藏起来。</p>
+<p>2、设置网站图标</p>
+<p>进入 themes&#x2F;主题 文件夹，打开 _config.yml 配置文件，找到 favicon 修改，一般格式为：favicon: 图标地址。（不同主题可能略有差别）</p>
+<p>3、修改并部署后没有效果</p>
+<p>使用 hexo clean 清理后重新部署。</p>
+<p>4、开启 HTTPS 后访问网站显示连接不安全？</p>
+<p>证书还未部署生效，等待一会儿，清除浏览器缓存再试。</p>
+<p>5、Mac 安装 Hexo 报错无法安装</p>
+<p>Mac 用户需要管理员权限运行，使用 sudo npm install -g hexo-cli 命令安装。</p>
+<p>6、npm 下载速度慢，甚至完全没反应</p>
+<p>使用 npm 安装程序等待很久也没反应，或者下载速度很慢，可以更换 npm 源为国内 npm 镜像。</p>
+<p>临时更换方法：在 npm 安装命令后面加上：</p>
+<p>–registry <a class="link"   href="https://registry.npm.taobao.org/" >https://registry.npm.taobao.org <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>结语<br>Hexo 是一种纯静态的博客，我们必须要在本地完成文章的编辑再部署到 GitHub 上，依赖于本地环境。不能像 WordPress 或 Typecho 那样的动态博客一样能直接在浏览器中完成撰文和发布。</p>
+<p>可以说是一种比较极客的写博客方式，但是优势也是明显的——免费稳定省心，比较适合爱折腾研究的用户，或者没有在线发文需求的朋友。</p>
+<p><strong><del>尼玛终于结尾了，这么长报错好多次·顺带一提，这个内容还不是我写的我特么</del></strong></p>
+]]></content>
+      <tags>
+        <tag>水</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>对于日本核废水问题的看法</title>
+    <url>/2023/08/31/%E5%AF%B9%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E9%97%AE%E9%A2%98%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>徐总的小作文</title>
+    <url>/2023/07/14/%E5%BE%90%E6%80%BB%E7%9A%84%E5%B0%8F%E4%BD%9C%E6%96%87/</url>
+    <content><![CDATA[<h1 id="徐总的小作文，偷偷保存下来展览"><a href="#徐总的小作文，偷偷保存下来展览" class="headerlink" title="徐总的小作文，偷偷保存下来展览"></a>徐总的小作文，偷偷保存下来展览</h1><h2 id="第一篇"><a href="#第一篇" class="headerlink" title="第一篇"></a>第一篇</h2><p>正文：<br>对手</p>
+<p>那是来师大的第一天</p>
+<p>培训班负责人在台上提醒着我们要注意各种问题，脸上挂着关怀的笑容，以一种生动幽默的方式筑起了一道似乎不是很牢固的防线，反而激起了我们的好奇心，教室内外充满了快活的空气。</p>
+<p>不经意间，讲到了校园内曾经出现几只浣熊。虽说浣熊战斗力惊人，但毕竟是数年以前的事情了，所能激起的波澜无非是落入池塘的一颗石子，并且不外乎这样那样的新鲜感。不多一会，教室内外再次充满了快活的空气。</p>
+<p>后来的几天，一切安宁，似乎什么意外都没有发生，也似乎什么意外都将不会发生，就这样，浑浑噩噩，不加思考，好像这一切都不会受到什么影响一样。</p>
+<p>我没有想到，或许我们都没想到。就在昨天晚自习下课后，我们遇到了它们。</p>
+<p>“通往酒店……嗯，有条近路，可惜被封了……”我无奈地随意滑动缩放高德地图的路线规划，向身边的某某指了指近路上的一个小小的禁止符号。<br>“碰碰运气，怕他做甚！”他倒是来了兴致，“说不定早就解封了呢，这地图没更新不是正常！”</p>
+<p>我心中不知为何闪过一念，但恰似那不知滥觞的嚆矢奔向无垠的大漠，它似乎想劝说我此行万不可始，又像在告诫我危险必然在乎前路。可是我怎么也抓不住它，只好任由它逝去，拖着不安忐忑的身躯向着未知的领域进发。</p>
+<p>“某某的身影肯定不比浣熊迟钝。”看着他在师大的林木间穿行的矫健身影，我不禁想到了浣熊。哦，是浣熊！我的心脏不自觉地跳得快了不少，我终于知道那个声音在呼喊什么了。“等一等，我感觉这里有些不对劲的地方！”我尽力压低声音，可尽管如此，在这静谧得可怕的草木之中，还是有如一阵惊雷。</p>
+<p>“又怎么了，犹犹豫豫的？”这才是一阵惊雷，某某似乎不耐烦于我的谨慎，回过头来喊了一句，乘着手电筒的光，不难看出他脸上对于早点离开的殷切希望。</p>
+<p>窸窣，黑暗处闪烁出一阵凶光，又猝尔而逝。我们两人走进了不少，背靠着背，手握手电筒时刻警惕来自各个方向可能的威胁。</p>
+<p>“果然，还是来了吗……”某某的声音也有些颤栗，我们还没有面对过如此强大的敌人。<br>“来了，这边！”我拾起一根掉落的枯枝，极力向着进攻的讯号传来之处挥去，我的树枝像是击打到了什么软韧的东西，那玩意的声音马上消逝在丛林深处了。</p>
+<p>“别庆祝了，快走！”我立马按下某某将要四处飞舞的手臂，拨开眼前的有近一人高的杂草，开辟着通往目的地的道路。不过，眼前显露出来的，不是晴朗的夜空，而是两只浣熊凶狠的眼睛。</p>
+<p>我们都找到武器，准备迎接一场恶仗。</p>
+<p>谁知，那两个家伙只是诡异地叫了一声，丢下了些什么东西就迅速融入了黑夜。那丢下的有两份，月光下看得不甚明了，只见如流水银河般诡异的光。</p>
+<p>我们走上前去，拿起手电筒一照：</p>
+<p>小浣熊干脆面</p>
+<p>“好家伙，爆装备是吧！”</p>
+<p>（纯属虚构，没法雷同吧。某几位来自如论的同学提供了爆干脆面的灵感，在此表示感谢。此外皆由徐总（QQ：552168442）创作，未经许可，不得转载）</p>
+<h2 id="第二篇"><a href="#第二篇" class="headerlink" title="第二篇"></a>第二篇</h2><pre><code>  那是好几年前的暑假，我还是个不识好歹的游浪青年，出入在网吧和校门口闲散人等聚集的小店。每个老师都说我很聪明也都说我只是不好好努力，哦，对了，办公室也是我经常光顾的地方。每天都浸润在电子烟的香气和同学鄙夷不屑的目光之中，唉，当时也是幼稚，竟对此毫不在意！
+   或许是天意，开学前几天，当我依旧漫漫的游走在街边时，似乎有什么奇怪的力量把我松垮的身子扭向一边——那是一抹身影，我敢担保，那会是我这辈子见过的最俏丽最纯洁最难忘的背影——那天，她绑着低马尾，额角两绺青丝，脸上挂着天真的笑容。我从没有见过她，但我知道，或许是现在我明白了，我的人生将从那一刻开始改变。
+   接下来的几天，我好像什么都没做，只是在心里痴痴地勾勒出那幅面容。“她真可爱。”我在想着，“如果还能见到她我一定要想办法让她做我地女友！”
+   开学的日子还是来了。我们班上来了两名新同学。平时从不肯出头地我那天一反常态，脖子深得老长，只想抢先看到新同学的面庞。第一位，不是。第二位，也不是！
+   我的兴致瞬间被浇灭了，瘫坐在椅子上。“哦，对不起，我们还有一名新同学，请允许她为大家做自我介绍！”老师的声音像是讯号，激活了我身体中的每一根神经每一块肌肉。是她！是她！
+   下了第一节课，我想去找她，但我看看自己的样子，再看看眼前这位美若天仙的女孩，不禁自惭形秽，口边无数轻薄的话语水逝云飞。我在心里默默想着，我要改变，我要变好，才能配得上我喜欢的女孩子！
+   可笑的是，我变好了，我从年段的倒数一直爬到了前300，再到200，再到100，最后偶尔还能与顶尖的同学较较劲，甚至把那个女孩也甩在了身后，但当年的痞子气，那种愚蠢的勇敢却再也找不到了。我一次次想要走到她面前，和她挽手在一个隐秘的角落，发出最诚实的告白，但永远只是幻想，只是幻想。时间就这样在无谓的挣扎中跑丢了。
+  高考在即，同学们都有意无意地做起了一些小礼物或是纪念品要送给自己或明或暗的爱恋者，有些成绩接近信誓旦旦要考上同一所大学。她也不例外，我就看着她一次次在下课挤出时间折着纸星星——我心里多少有点暖意，毕竟我也喜欢星星。我鼓起勇气，上去问了一句这些是做给谁的，她甜甜地笑了：“当然是给我喜欢的人啊“我有点想哭，因为我知道我可能永远都得不到爱神的眷顾，永远得不到这个女孩的喜欢，我害怕这几年都将变成一缕青烟，在别人的世界里转瞬即逝毫无波澜，而在我这则是永远的创伤——我真的好害怕失去，我真的好胆小。于是，我没再多问，压抑着眼泪，悄悄离开了，还不忘回头看上几眼那一次又一次出现在梦里却总抓不住的背影。
+   毕业典礼上，她踏着小步走到我面前，递给我一个小熊布偶，就捂着嘴跑开了。嗯，手感有点怪异，不过这可是我最喜欢的女孩送我的东西啊，我怎么能挑三拣四呢？又是悄悄地，我把它搂进了怀里，就好像是抱住了她一样。
+   高考成绩出来了，我考的挺不错，省300来名这样，她也不错，能上个不错的211。我正纠结要去哪所学校，突然QQ响起了特别关心的提示音。我连忙打开，发现是一个空间里的小视频：
+  在你的记忆里我是否渐渐模糊
+  配图是一张福州开往武汉的火车票
+  我知道我要去哪里上大学了
+  我像突然想到了什么，拿起枕边的小熊，发现背上有个拉链。手颤抖着，我拉开了它，里面是满满的星星，每个星星上面都有我的名字。
+  我立马拿起手机，拨通她的电话，眼中泪水也迸了出来，
+  “你的身影永远不会模糊，因为，因为，我喜欢你！”
+  （从自己看过的网抑云和各大平台上的小故事汲取来的灵感，纯属虚构，没别的意思）
+</code></pre>
+]]></content>
+  </entry>
+  <entry>
     <title>python教程（超详细,学不会你打我）</title>
-    <url>/2023/03/18/python%E6%95%99%E7%A8%8B%EF%BC%88%E8%B6%85%E8%AF%A6%E7%BB%86-%E5%AD%A6%E4%B8%8D%E4%BC%9A%E4%BD%A0%E6%89%93%E6%88%91%EF%BC%89/</url>
+    <url>/2023/03/18/%E7%9E%8E%E5%86%99%E7%9A%84pyhon%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h1><p>本博客为自用向以及教学向python教程，目标是让每个人看黄岐的课不会一脸懵逼，<del>顺便架空黄岐嘿</del>。</p>
 <h1 id="python中的各种符号以及代码的基本内涵"><a href="#python中的各种符号以及代码的基本内涵" class="headerlink" title="python中的各种符号以及代码的基本内涵"></a>python中的各种符号以及代码的基本内涵</h1><p>Python有很多种符号，它们可以分为以下几类</p>
 <h2 id="算术运算符：用来进行加、减、乘、除等数学运算，例如-、-、-、-x2F-等。"><a href="#算术运算符：用来进行加、减、乘、除等数学运算，例如-、-、-、-x2F-等。" class="headerlink" title="- 算术运算符：用来进行加、减、乘、除等数学运算，例如+、-、*、&#x2F;等。"></a>- 算术运算符：用来进行加、减、乘、除等数学运算，例如+、-、*、&#x2F;等。</h2><blockquote>
@@ -203,103 +315,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>python题型</title>
-    <url>/2023/03/19/python%E9%A2%98%E5%9E%8B/</url>
-    <content><![CDATA[<p>题型就专门再开一个博客来写了</p>
-<h1 id="计算5-51之和"><a href="#计算5-51之和" class="headerlink" title="计算5~51之和"></a>计算5~51之和</h1><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">sum = 0   </span><br><span class="line">for i in range(5, 52): </span><br><span class="line">    sum += i </span><br><span class="line">print(sum)</span><br></pre></td></tr></table></figure></div>
-<p>核心考察点：range函数的使用方法（即区间函数）</p>
-<p>range(终值)：默认起始值为0，步长为1，返回从0到终值（不包括终值）的整数列表。例如：range(5) 等价于 [0, 1, 2, 3, 4]</p>
-<p>range(起始值, 终值)：默认步长为1，返回从起始值到终值（不包括终值）的整数列表。例如：range(1, 5) 等价于 [1, 2, 3, 4]</p>
-<p>range(起始值, 终值, 步长)：返回从起始值到终值（不包括终值）的整数列表，按照指定的步长递增或递减。例如：range(1, 10, 2) 等价于 [1, 3, 5 ,7 ,9]</p>
-<h1 id="输入一个正整数n，输出从1到n的所有奇数。"><a href="#输入一个正整数n，输出从1到n的所有奇数。" class="headerlink" title="输入一个正整数n，输出从1到n的所有奇数。"></a>输入一个正整数n，输出从1到n的所有奇数。</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">n = int(input(&quot;请输入一个正整数：&quot;))</span><br><span class="line">i = 1</span><br><span class="line">while i &lt;= n:</span><br><span class="line">    if i % 2 == 1:</span><br><span class="line">        print(i)</span><br><span class="line">    i += 1   #每次循环结束后，将i加1</span><br></pre></td></tr></table></figure></div>
-<p>意义：代码中首先输入一个正整数n，然后初始化变量i为1。在while循环中，如果i是奇数，则输出i，然后将i加1，进入下一轮循环。当i大于n时，循环结束。这样就可以输出从1到n的所有奇数。</p>
-<p>考点：while指令的运用</p>
-<p>while是Python中的一种循环结构，可以重复执行一段代码块，直到满足指定条件时停止循环。通常用于处理需要重复执行的任务，如输入验证、数据处理、游戏循环等。</p>
-<p>while语句的一般语法如下：<br>while condition:</p>
-<p>其中，condition是一个表达式，通常包含一个或多个变量和运算符，用于检查循环是否继续执行。在每次循环开始时，都会先检查condition的值，如果为True，则执行代码块中的语句；如果为False，则退出循环。</p>
-<p>下面是另外一个while函数的例子</p>
-<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">i = 1</span><br><span class="line">total = 0</span><br><span class="line"></span><br><span class="line">while i &lt;= 10:</span><br><span class="line">    total += i</span><br><span class="line">    i += 1</span><br><span class="line"></span><br><span class="line">print(total)  # 输出55，即1+2+3+4+5+6+7+8+9+10的和</span><br></pre></td></tr></table></figure></div>
-<h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">n = int(input(&quot;请输入一个正整数n：&quot;))</span><br><span class="line"></span><br><span class="line">for i in range(1, n+1, 2):</span><br><span class="line">    print(i)</span><br></pre></td></tr></table></figure></div>
-
-
-
-
-
-
-
-
-<h1 id="chr-ord-‘a’-1-的值为？（选择题）"><a href="#chr-ord-‘a’-1-的值为？（选择题）" class="headerlink" title="chr(ord(‘a’)+1)的值为？（选择题）"></a>chr(ord(‘a’)+1)的值为？（选择题）</h1><p>在这个表达式中，ord(‘a’) 将字符 ‘a’ 转换成其对应的 ASCII 码值（整数），而 chr() 函数则将整数转换为其对应的字符。</p>
-<p>因此，ord(‘a’)+1 计算出的是 ‘a’ 后面的一个字母 ‘b’ 的 ASCII 码值然后 chr() 函数将该整数转换成对应的字符 ‘b’。</p>
-<p>这样的计算顺序是正确的，因为先计算 ord(‘a’) 保证了对应的 ASCII 码值正确，再通过 chr() 函数将该整数转换成对应的字符。</p>
-<p>以下是 ASCII 码表中一些常见字符和控制字符的对应值：</p>
-<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">空格：32</span><br><span class="line">数字 0 到 9：48 到 57</span><br><span class="line">大写字母 A 到 Z：65 到 90</span><br><span class="line">小写字母 a 到 z：97 到 122</span><br><span class="line">符号 ! 到 /：33 到 47</span><br><span class="line">符号 : 到 @：58 到 64</span><br><span class="line">符号 [ 到 `：91 到 96</span><br><span class="line">符号 &#123; 到 ~：123 到 126</span><br><span class="line">回车符：13</span><br><span class="line">换行符：10</span><br><span class="line">制表符：9</span><br></pre></td></tr></table></figure></div>]]></content>
-  </entry>
-  <entry>
-    <title>一些常用网址和指令</title>
-    <url>/2023/07/14/%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80%E5%92%8C%E6%8C%87%E4%BB%A4/</url>
-    <content><![CDATA[<p>运行栏中输入的是：ping cdn.steampowered.com<br>IP地址查询网址：<a class="link"   href="https://www.ipip.net/ip.html" >https://www.ipip.net/ip.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>看显卡：dxdiag</p>
-<p>显示主板 msinfo32<br>显示显卡 dxdiag<br>显示ip：cmd      ipconfig</p>
-<p>卡屏<br><a class="link"   href="https://huayula.com/post-429.html#:~:text=QQ%E7%82%B8%E7%BE%A4%E3%80%81%E5%8D%A1%E5%B1%8F%E9%97%AA,%EF%BC%8C%E7%94%A8%E8%BF%87%E7%9A%84%E4%BA%BA%E7%9F%A5%E9%81%93%E3%80%82" >https://huayula.com/post-429.html#:~:text=QQ%E7%82%B8%E7%BE%A4%E3%80%81%E5%8D%A1%E5%B1%8F%E9%97%AA,%EF%BC%8C%E7%94%A8%E8%BF%87%E7%9A%84%E4%BA%BA%E7%9F%A5%E9%81%93%E3%80%82 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>虚拟键盘<br>cmd    osk</p>
-<p>模拟人声<br><a class="link"   href="https://www.bilibili.com/read/cv20153960?spm_id_from=333.999.0.0" >https://www.bilibili.com/read/cv20153960?spm_id_from=333.999.0.0 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>下载b站视频<br><a class="link"   href="https://bilibili.iiilab.com/" >https://bilibili.iiilab.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="http://zhouql.vip/bilibili/" >http://zhouql.vip/bilibili/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>短网址<br><a class="link"   href="https://sina.lt/" >https://sina.lt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>代码<br>sv_consistency 0</p>
-<p>map tumtara测试<br>map tgxl特感训练<br>map ygschool_01学校<br>map ygschool_02学校</p>
-<p>账号<br>枭，枭ep，xiao128<br>密码gaoxuefeng,gaoxuefeng510,Gaoxue510,Gaoxuefeng510,gaoxuefeng510.</p>
-<p>人工ai<br>解除Sydney限制<br><a class="link"   href="https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai" >https://greasyfork.org/zh-CN/scripts/461220-powerful-bing-chat-ai <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://www.make-safe-ai.com/is-bing-chat-safe/" >https://www.make-safe-ai.com/is-bing-chat-safe/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>自建博客<br><a class="link"   href="https://zhuanlan.zhihu.com/p/105715224" >https://zhuanlan.zhihu.com/p/105715224 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>个人博客<br><a class="link"   href="https://xiao128.github.io/" >https://xiao128.github.io/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>常用命令<br>hexo new “name”       # 新建文章<br>hexo new page “name”  # 新建页面<br>hexo g                # 生成页面<br>hexo d                # 部署<br>hexo g -d             # 生成页面并部署<br>hexo s                # 本地预览<br>hexo clean            # 清除缓存和已生成的静态文件<br>hexo help             # 帮助<br><a class="link"   href="https://markdown.com.cn/basic-syntax/headings.html" >https://markdown.com.cn/basic-syntax/headings.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://markdown.com.cn/editor/" >https://markdown.com.cn/editor/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>博客美化<br><a class="link"   href="https://molunerfinn.com/" >https://molunerfinn.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://redefine.ohevan.com/2022/10/02/theme-demo/" >https://redefine.ohevan.com/2022/10/02/theme-demo/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://redefine-docs.ohevan.com/docs/configuration-guide/create-theme-config-file" >https://redefine-docs.ohevan.com/docs/configuration-guide/create-theme-config-file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://zhuanlan.zhihu.com/p/69211731" >https://zhuanlan.zhihu.com/p/69211731 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://github.com/settings/applications/2141058" >https://github.com/settings/applications/2141058 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>图标<br><a class="link"   href="https://www.iconfont.cn/search/index?searchType=icon&q=G&page=6&fromCollection=-1" >https://www.iconfont.cn/search/index?searchType=icon&amp;q=G&amp;page=6&amp;fromCollection=-1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>背景<br><a class="link"   href="https://www.pexels.com/zh-cn/search/4k%E8%83%8C%E6%99%AF/" >https://www.pexels.com/zh-cn/search/4k%E8%83%8C%E6%99%AF/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>钉钉视频下载<br><a class="link"   href="https://blog.csdn.net/weixin_45698690/article/details/129164016" >https://blog.csdn.net/weixin_45698690/article/details/129164016 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>微信QQ防撤回<br><a class="link"   href="https://github.com/huiyadanli/RevokeMsgPatcher/wiki" >https://github.com/huiyadanli/RevokeMsgPatcher/wiki <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>中国是社会主义国家吗？</title>
-    <url>/2023/06/04/%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6%E5%90%97%EF%BC%9F/</url>
-    <content><![CDATA[<h1 id="懒得写，这是挖坑"><a href="#懒得写，这是挖坑" class="headerlink" title="懒得写，这是挖坑"></a>懒得写，这是挖坑</h1><h1 id="希望我又朝一日能写完（估计会有2000多字吧）"><a href="#希望我又朝一日能写完（估计会有2000多字吧）" class="headerlink" title="希望我又朝一日能写完（估计会有2000多字吧）"></a>希望我又朝一日能写完（估计会有2000多字吧）</h1>]]></content>
-  </entry>
-  <entry>
-    <title>建站第一天</title>
-    <url>/2023/03/12/%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<h1 id="建站第一天，为了搞这个博客博主差点去世"><a href="#建站第一天，为了搞这个博客博主差点去世" class="headerlink" title="建站第一天，为了搞这个博客博主差点去世"></a>建站第一天，为了搞这个博客博主差点去世</h1><p><del>（菜鸡博主）</del>（至少因为这个作业写不完了，死掉了，晚上要被<del>大文</del>真实了😥）</p>
-<h2 id="7-1-发布文章"><a href="#7-1-发布文章" class="headerlink" title="7.1 发布文章"></a>7.1 发布文章</h2><p>进入博客所在目录，右键打开 Git Bash Here，创建博文：</p>
-<p>hexo new “My New Post”<br>然后 source 文件夹中会出现一个 My New Post.md 文件，就可以使用 Markdown 编辑器在该文件中撰写文章了。</p>
-<p>写完后运行下面代码将文章渲染并部署到 GitHub Pages 上完成发布。以后每次发布文章都是这两条命令。</p>
-<p>hexo g   # 生成页面<br>hexo d   # 部署发布<br>也可以不使用命令自己创建 .md 文件，只需在文件开头手动加入如下格式 Front-matter 即可，写完后运行 hexo g 和 hexo d 发布。<del>看到这已经该无聊的睡着了😴</del></p>
-<p>摘要</p>
-<span id="more"></span>
-<p>正文<br>#@ 7.2 网站设置<br>包括网站名称、描述、作者、链接样式等，全部在网站目录下的 _config.yml 文件中，参考官方文档按需要编辑。</p>
-<p>注意：冒号后要加一个空格！</p>
-<h2 id="7-3-更换主题"><a href="#7-3-更换主题" class="headerlink" title="7.3 更换主题"></a>7.3 更换主题</h2><p>在 Themes | Hexo 选择一个喜欢的主题，比如 NexT，进入网站目录打开 Git Bash Here 下载主题：</p>
-<p>git clone <a class="link"   href="https://github.com/iissnan/hexo-theme-next" >https://github.com/iissnan/hexo-theme-next <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> themes&#x2F;next<br>然后修改 _config.yml 中的 theme 为新主题名称 next，发布。（有的主题需要将 _config.yml 替换为主题自带的，参考主题说明。）</p>
-<h2 id="7-4-常用命令"><a href="#7-4-常用命令" class="headerlink" title="7.4 常用命令"></a>7.4 常用命令</h2><p>hexo new “name”       # 新建文章<br>hexo new page “name”  # 新建页面<br>hexo g                # 生成页面<br>hexo d                # 部署<br>hexo g -d             # 生成页面并部署<br>hexo s                # 本地预览<br>hexo clean            # 清除缓存和已生成的静态文件<br>hexo help             # 帮助<br>8 常见问题<br>1、Hexo 设置显示文章摘要，首页不显示全文</p>
-<p>Hexo 主页文章列表默认会显示文章全文，浏览时很不方便，可以在文章中插入 <!--more--> 进行分段。</p>
-<p>该代码前面的内容会作为摘要显示，而后面的内容会替换为 “Read More” 隐藏起来。</p>
-<p>2、设置网站图标</p>
-<p>进入 themes&#x2F;主题 文件夹，打开 _config.yml 配置文件，找到 favicon 修改，一般格式为：favicon: 图标地址。（不同主题可能略有差别）</p>
-<p>3、修改并部署后没有效果</p>
-<p>使用 hexo clean 清理后重新部署。</p>
-<p>4、开启 HTTPS 后访问网站显示连接不安全？</p>
-<p>证书还未部署生效，等待一会儿，清除浏览器缓存再试。</p>
-<p>5、Mac 安装 Hexo 报错无法安装</p>
-<p>Mac 用户需要管理员权限运行，使用 sudo npm install -g hexo-cli 命令安装。</p>
-<p>6、npm 下载速度慢，甚至完全没反应</p>
-<p>使用 npm 安装程序等待很久也没反应，或者下载速度很慢，可以更换 npm 源为国内 npm 镜像。</p>
-<p>临时更换方法：在 npm 安装命令后面加上：</p>
-<p>–registry <a class="link"   href="https://registry.npm.taobao.org/" >https://registry.npm.taobao.org <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>结语<br>Hexo 是一种纯静态的博客，我们必须要在本地完成文章的编辑再部署到 GitHub 上，依赖于本地环境。不能像 WordPress 或 Typecho 那样的动态博客一样能直接在浏览器中完成撰文和发布。</p>
-<p>可以说是一种比较极客的写博客方式，但是优势也是明显的——免费稳定省心，比较适合爱折腾研究的用户，或者没有在线发文需求的朋友。</p>
-<p><strong><del>尼玛终于结尾了，这么长报错好多次·顺带一提，这个内容还不是我写的我特么</del></strong></p>
-]]></content>
-      <tags>
-        <tag>水</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>报错的解决方法</title>
     <url>/2023/07/15/%E6%8A%A5%E9%94%99%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<p><img  
@@ -309,60 +324,5 @@
                       alt="Test"
                 ></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>徐总的小作文</title>
-    <url>/2023/07/14/%E5%BE%90%E6%80%BB%E7%9A%84%E5%B0%8F%E4%BD%9C%E6%96%87/</url>
-    <content><![CDATA[<h1 id="徐总的小作文，偷偷保存下来展览"><a href="#徐总的小作文，偷偷保存下来展览" class="headerlink" title="徐总的小作文，偷偷保存下来展览"></a>徐总的小作文，偷偷保存下来展览</h1><h2 id="第一篇"><a href="#第一篇" class="headerlink" title="第一篇"></a>第一篇</h2><p>正文：<br>对手</p>
-<p>那是来师大的第一天</p>
-<p>培训班负责人在台上提醒着我们要注意各种问题，脸上挂着关怀的笑容，以一种生动幽默的方式筑起了一道似乎不是很牢固的防线，反而激起了我们的好奇心，教室内外充满了快活的空气。</p>
-<p>不经意间，讲到了校园内曾经出现几只浣熊。虽说浣熊战斗力惊人，但毕竟是数年以前的事情了，所能激起的波澜无非是落入池塘的一颗石子，并且不外乎这样那样的新鲜感。不多一会，教室内外再次充满了快活的空气。</p>
-<p>后来的几天，一切安宁，似乎什么意外都没有发生，也似乎什么意外都将不会发生，就这样，浑浑噩噩，不加思考，好像这一切都不会受到什么影响一样。</p>
-<p>我没有想到，或许我们都没想到。就在昨天晚自习下课后，我们遇到了它们。</p>
-<p>“通往酒店……嗯，有条近路，可惜被封了……”我无奈地随意滑动缩放高德地图的路线规划，向身边的某某指了指近路上的一个小小的禁止符号。<br>“碰碰运气，怕他做甚！”他倒是来了兴致，“说不定早就解封了呢，这地图没更新不是正常！”</p>
-<p>我心中不知为何闪过一念，但恰似那不知滥觞的嚆矢奔向无垠的大漠，它似乎想劝说我此行万不可始，又像在告诫我危险必然在乎前路。可是我怎么也抓不住它，只好任由它逝去，拖着不安忐忑的身躯向着未知的领域进发。</p>
-<p>“某某的身影肯定不比浣熊迟钝。”看着他在师大的林木间穿行的矫健身影，我不禁想到了浣熊。哦，是浣熊！我的心脏不自觉地跳得快了不少，我终于知道那个声音在呼喊什么了。“等一等，我感觉这里有些不对劲的地方！”我尽力压低声音，可尽管如此，在这静谧得可怕的草木之中，还是有如一阵惊雷。</p>
-<p>“又怎么了，犹犹豫豫的？”这才是一阵惊雷，某某似乎不耐烦于我的谨慎，回过头来喊了一句，乘着手电筒的光，不难看出他脸上对于早点离开的殷切希望。</p>
-<p>窸窣，黑暗处闪烁出一阵凶光，又猝尔而逝。我们两人走进了不少，背靠着背，手握手电筒时刻警惕来自各个方向可能的威胁。</p>
-<p>“果然，还是来了吗……”某某的声音也有些颤栗，我们还没有面对过如此强大的敌人。<br>“来了，这边！”我拾起一根掉落的枯枝，极力向着进攻的讯号传来之处挥去，我的树枝像是击打到了什么软韧的东西，那玩意的声音马上消逝在丛林深处了。</p>
-<p>“别庆祝了，快走！”我立马按下某某将要四处飞舞的手臂，拨开眼前的有近一人高的杂草，开辟着通往目的地的道路。不过，眼前显露出来的，不是晴朗的夜空，而是两只浣熊凶狠的眼睛。</p>
-<p>我们都找到武器，准备迎接一场恶仗。</p>
-<p>谁知，那两个家伙只是诡异地叫了一声，丢下了些什么东西就迅速融入了黑夜。那丢下的有两份，月光下看得不甚明了，只见如流水银河般诡异的光。</p>
-<p>我们走上前去，拿起手电筒一照：</p>
-<p>小浣熊干脆面</p>
-<p>“好家伙，爆装备是吧！”</p>
-<p>（纯属虚构，没法雷同吧。某几位来自如论的同学提供了爆干脆面的灵感，在此表示感谢。此外皆由徐总（QQ：552168442）创作，未经许可，不得转载）</p>
-<h2 id="第二篇"><a href="#第二篇" class="headerlink" title="第二篇"></a>第二篇</h2><pre><code>  那是好几年前的暑假，我还是个不识好歹的游浪青年，出入在网吧和校门口闲散人等聚集的小店。每个老师都说我很聪明也都说我只是不好好努力，哦，对了，办公室也是我经常光顾的地方。每天都浸润在电子烟的香气和同学鄙夷不屑的目光之中，唉，当时也是幼稚，竟对此毫不在意！
-   或许是天意，开学前几天，当我依旧漫漫的游走在街边时，似乎有什么奇怪的力量把我松垮的身子扭向一边——那是一抹身影，我敢担保，那会是我这辈子见过的最俏丽最纯洁最难忘的背影——那天，她绑着低马尾，额角两绺青丝，脸上挂着天真的笑容。我从没有见过她，但我知道，或许是现在我明白了，我的人生将从那一刻开始改变。
-   接下来的几天，我好像什么都没做，只是在心里痴痴地勾勒出那幅面容。“她真可爱。”我在想着，“如果还能见到她我一定要想办法让她做我地女友！”
-   开学的日子还是来了。我们班上来了两名新同学。平时从不肯出头地我那天一反常态，脖子深得老长，只想抢先看到新同学的面庞。第一位，不是。第二位，也不是！
-   我的兴致瞬间被浇灭了，瘫坐在椅子上。“哦，对不起，我们还有一名新同学，请允许她为大家做自我介绍！”老师的声音像是讯号，激活了我身体中的每一根神经每一块肌肉。是她！是她！
-   下了第一节课，我想去找她，但我看看自己的样子，再看看眼前这位美若天仙的女孩，不禁自惭形秽，口边无数轻薄的话语水逝云飞。我在心里默默想着，我要改变，我要变好，才能配得上我喜欢的女孩子！
-   可笑的是，我变好了，我从年段的倒数一直爬到了前300，再到200，再到100，最后偶尔还能与顶尖的同学较较劲，甚至把那个女孩也甩在了身后，但当年的痞子气，那种愚蠢的勇敢却再也找不到了。我一次次想要走到她面前，和她挽手在一个隐秘的角落，发出最诚实的告白，但永远只是幻想，只是幻想。时间就这样在无谓的挣扎中跑丢了。
-  高考在即，同学们都有意无意地做起了一些小礼物或是纪念品要送给自己或明或暗的爱恋者，有些成绩接近信誓旦旦要考上同一所大学。她也不例外，我就看着她一次次在下课挤出时间折着纸星星——我心里多少有点暖意，毕竟我也喜欢星星。我鼓起勇气，上去问了一句这些是做给谁的，她甜甜地笑了：“当然是给我喜欢的人啊“我有点想哭，因为我知道我可能永远都得不到爱神的眷顾，永远得不到这个女孩的喜欢，我害怕这几年都将变成一缕青烟，在别人的世界里转瞬即逝毫无波澜，而在我这则是永远的创伤——我真的好害怕失去，我真的好胆小。于是，我没再多问，压抑着眼泪，悄悄离开了，还不忘回头看上几眼那一次又一次出现在梦里却总抓不住的背影。
-   毕业典礼上，她踏着小步走到我面前，递给我一个小熊布偶，就捂着嘴跑开了。嗯，手感有点怪异，不过这可是我最喜欢的女孩送我的东西啊，我怎么能挑三拣四呢？又是悄悄地，我把它搂进了怀里，就好像是抱住了她一样。
-   高考成绩出来了，我考的挺不错，省300来名这样，她也不错，能上个不错的211。我正纠结要去哪所学校，突然QQ响起了特别关心的提示音。我连忙打开，发现是一个空间里的小视频：
-  在你的记忆里我是否渐渐模糊
-  配图是一张福州开往武汉的火车票
-  我知道我要去哪里上大学了
-  我像突然想到了什么，拿起枕边的小熊，发现背上有个拉链。手颤抖着，我拉开了它，里面是满满的星星，每个星星上面都有我的名字。
-  我立马拿起手机，拨通她的电话，眼中泪水也迸了出来，
-  “你的身影永远不会模糊，因为，因为，我喜欢你！”
-  （从自己看过的网抑云和各大平台上的小故事汲取来的灵感，纯属虚构，没别的意思）
-</code></pre>
-]]></content>
-  </entry>
-  <entry>
-    <title>收到启发</title>
-    <url>/2023/06/04/%E6%94%B6%E5%88%B0%E5%90%AF%E5%8F%91/</url>
-    <content><![CDATA[<p>今天瞎看书的时候看到了一句话</p>
-<p><code>&gt;</code><em><strong>把自己的思想写下来（不管在信中或是用别的方式），比着光在脑中空想是大不同的。写下来需要正确精密的思想，所以写在纸上的自我检讨，格外深刻，对自己也印象深刻。             —————傅雷</strong></em>*</p>
-<p>从个人角度来看，还是挺讨厌傅雷的（人格品性来看），但是他的这句话我还是蛮赞同的</p>
-<h2 id="希望我可以坚持下去吧"><a href="#希望我可以坚持下去吧" class="headerlink" title="希望我可以坚持下去吧"></a><strong>希望我可以坚持下去吧</strong></h2>]]></content>
-  </entry>
-  <entry>
-    <title>对于日本核废水问题的看法</title>
-    <url>/2023/08/31/%E5%AF%B9%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E9%97%AE%E9%A2%98%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
